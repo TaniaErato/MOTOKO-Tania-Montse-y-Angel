@@ -45,5 +45,5 @@ Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por fa
 
 ## Autor
 
-Este proyecto fue desarrollado por [Tania Aguayo, Montserrat Hurtado y Angel Larios] como parte de [motoko-bootcamp].
+Este proyecto fue desarrollado por [Tania Erato Aguayo Salgado] como parte de [motoko-bootcamp].
 Archivo README.md
